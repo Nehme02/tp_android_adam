@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">whatever you want agency</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_Projects">Projects</string>
+    <string name="title_Services">Services</string>
+    <string name="title_Contact">Contact</string>
+</resources>
